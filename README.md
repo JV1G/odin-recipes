@@ -1,1 +1,2 @@
 # odin-recipes
+An HTML webpage made during the foundations course on the Odin Project. It's a basic website that contains links to recipes. Clicking on a link will show the instructions and the ingredients required to make the dish.
